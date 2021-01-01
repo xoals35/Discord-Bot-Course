@@ -6,20 +6,7 @@
 
 
 
-{
-  "name": "bot",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "e": "node index.js"
-  },
-  "dependencies": {
-    "discord.js": "^12.5.1"
-  }
-}
-
-
+이상하게 나오니 유튜브 댓글에 올려놓을게요!
 
 
 
